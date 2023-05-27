@@ -26,3 +26,4 @@ chmod +x main.sh
   - et-xmlfile==1.1.0
   - openpyxl==3.1.2
 - Bash
+- xlsx2csv

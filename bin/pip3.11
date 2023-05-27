@@ -1,4 +1,4 @@
-#!/home/bido/scripts/chuo/magu/auto_vocab/bin/python
+#!/home/bido/scripts/chuo/magu/auto_vocab/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
