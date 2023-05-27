@@ -3,7 +3,10 @@
 ## 使い方
 ``` bash
 git clone git@github.com:K-REBO/auto_vocab.git
+
+python -m venv auto_vocab
 cd ./auto_vocab/
+
 
 # on bash
 source ./bin/activate
