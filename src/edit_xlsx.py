@@ -16,7 +16,7 @@ if __name__ == '__main__':
      
      
      wb = openpyxl.load_workbook(xlsx_path)
-     sheet = wb['Vocab. Assignment  4']
+     sheet = wb.worksheets[0]
      
      # write pronounce & meaning
      for i in range(0, len(lines)):
